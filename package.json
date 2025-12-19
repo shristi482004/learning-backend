@@ -1,0 +1,19 @@
+{
+  "name": "shristi-learns-backend",
+  "version": "1.0.0",
+  "description": "My Backend Journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shristi482004/learning-backend.git"
+  },
+  "author": "Shristi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shristi482004/learning-backend/issues"
+  },
+  "homepage": "https://github.com/shristi482004/learning-backend#readme"
+}
