@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/shristi482004/learning-backend/issues"
   },
-  "homepage": "https://github.com/shristi482004/learning-backend#readme"
+  "homepage": "https://github.com/shristi482004/learning-backend#readme",
+  "dependencies": {
+    "cookie": "^1.1.1",
+    "express": "^5.2.1",
+    "parser": "^0.1.4"
+  }
 }
